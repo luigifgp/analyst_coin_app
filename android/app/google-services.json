@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122624977850",
+    "project_id": "analystcoin",
+    "storage_bucket": "analystcoin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122624977850:android:0555b489cbcb26a9ffcb83",
+        "android_client_info": {
+          "package_name": "com.example.analyst_coin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122624977850-k61vrssk83ujfhqlr07rm5lepa5s5evn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvGtOYi3BbJPWR1eYNF418ev3K8vNctaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122624977850-k61vrssk83ujfhqlr07rm5lepa5s5evn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+{
+  "language": {
+    "name": {
+      "en": "Ingles",
+      "es": "Espanhol",
+      "pt": "Portugues"
+    },
+    "selected_message": "Seu novo lenguaje é {language}",
+    "selection": {
+      "message": "Favor selecione sua devida lengua",
+      "title": "lenguaje selecionado"
+    },
+    "button": {
+      "cancel": "Fechar",
+      "change_language": "Escoja seu lenguaje"
+    }
+  },
+  "home": {
+    "button1": "fazer um novo registro",
+    "button2":  "entrar"
+  },
+  "coins_screen": {
+    "options_button": "Óla",
+    "options_list_1": "Pérfil",
+    "options_list_2": "Ferramentas",
+    "options_list_3": "Sair"
+  },
+  "settings_screen": {
+    "option_1": "Tema",
+    "option_2": "Lenguajes",
+    "option_3": "Sobre-nos"
+  }
+}

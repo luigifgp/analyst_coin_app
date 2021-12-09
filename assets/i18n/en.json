@@ -1,0 +1,34 @@
+{
+  "language": {
+    "name": {
+      "en": "English",
+      "es": "Spanish",
+      "pt": "Portuguese"
+    },
+
+  "selected_message": "Currently selected language is {language}",
+  "selection": {
+    "message": "Please select a language from the list",
+    "title": "Language Selection"
+  },
+    "button": {
+      "cancel": "Cancel",
+      "change_language": "Change Language"
+    }
+  },
+  "home": {
+    "button1": "Create an account",
+    "button2":  "Login"
+  },
+  "coins_screen": {
+    "options_button": "Hello",
+    "options_list_1": "Profile",
+    "options_list_2": "Settings",
+    "options_list_3": "Sign Out"
+  },
+  "settings_screen": {
+    "option_1": "Theme",
+    "option_2": "Languages",
+    "option_3": "About us"
+  }
+}
